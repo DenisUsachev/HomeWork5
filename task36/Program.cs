@@ -48,9 +48,6 @@ void PrintArray(int[] array)
     Console.WriteLine();
 }
 
-
-
-
 //Находим сумму элементов, стоящих на нечётных позициях
 int GetSummOddPositions(int[] array)
 {
