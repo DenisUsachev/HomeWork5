@@ -14,7 +14,7 @@ int GetNumber(string message)
         }
         else
         {
-            Console.WriteLine("Ввели не число. Ввели некорректрое число");
+            Console.WriteLine("Ввели не число. Ввели некорректное число");
         }
     }
     return result;
